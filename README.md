@@ -1,11 +1,9 @@
-# java-project
-
 Type action (help for list all actions):
 parse
 
 Parsing CSV file
 Parsing VK data
-ERROR StatusLogger No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
+
 Поляков Кирилл [138281156], Екатеринбург
 Моисеев Денис [159659472], Екатеринбург
 Сарапулов Матвей [242618742], Екатеринбург
