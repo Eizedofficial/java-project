@@ -44,9 +44,6 @@ class Router {
                 case "stats":
                     printStudentStats();
                     break;
-                case "graphics":
-                    routeGraphics();
-                    break;
                 default:
                     System.out.println("Unknown action. Try again");
             }
@@ -57,12 +54,6 @@ class Router {
                 break;
             }
         }
-    }
-
-    private static void routeGraphics() {
-        try {
-
-
     }
 
     private static void printStudentStats() {

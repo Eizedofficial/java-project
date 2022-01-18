@@ -19,7 +19,7 @@ public class VK {
         try {
             TransportClient transportClient = HttpTransportClient.getInstance();
             VK.client = new VkApiClient(transportClient);
-            VK.actor = new UserActor(205817451, "c8e8a4230c2500fc1981d6ba8e6cd03f7dfe7e3229e60c7ee30244f23ddb7ef777623d569cbbad3fe7a5e");
+            VK.actor = new UserActor(205817451, "3f8cc59ef018be4ef0083f41fb61d40120184f33c3ef239b0abd31c86d52db6119b57915ed7aaf6d944ab");
 
             var group = VK.client.groups()
                     .getMembers(VK.actor)
